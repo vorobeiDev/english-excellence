@@ -1,1 +1,1 @@
-This is simple markup (HTML, CSS) project.
+This is a simple markup (HTML, CSS, JS) project.
